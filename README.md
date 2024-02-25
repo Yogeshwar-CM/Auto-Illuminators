@@ -2,10 +2,10 @@
 
 AutoIlluminators is an advanced indicator and headlight monitoring system designed to enhance safety by utilizing the advantages of machine learning and the Google Maps Platform. Our solution comprises two key components: firstly, the efficient management of turn indicators, and secondly, the regulation of beam lights in accordance with driving regulations to prevent accidents with approaching vehicles.
 
-![Screenshot (291)](https://github.com/Yogeshwar-CM/Auto-Illuminators/assets/117517206/b16a9c0b-a06e-4863-86b5-6064b4f977d9)
-
 
 https://github.com/Yogeshwar-CM/Auto-Illuminators/assets/82727820/2e7cb194-2423-4670-a69e-214b0b730ec2
+
+![Screenshot (291)](https://github.com/Yogeshwar-CM/Auto-Illuminators/assets/117517206/b16a9c0b-a06e-4863-86b5-6064b4f977d9)
 
 ## 1) Managing Indicators
 
