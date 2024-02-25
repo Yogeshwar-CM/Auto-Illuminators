@@ -24,10 +24,14 @@ Various rules and regulations govern the use of beam lights, including the requi
 
 ## Command to execute
 
-Clone the repository to your local machine `git clone https://github.com/Yogeshwar-CM/Auto-Illuminators `
+Clone the repository to your local machine 
+`git clone https://github.com/Yogeshwar-CM/Auto-Illuminators `
 
-Install dependencies `npm install`
+Install dependencies 
+`npm install`
 
-Start script `npm start`
+Start script 
+`npm start`
 
-Navigate to `http://localhost:3000/`
+Navigate to 
+`http://localhost:3000/`
