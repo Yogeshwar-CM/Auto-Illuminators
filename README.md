@@ -1,16 +1,19 @@
-# AutoIlluminator - Drive Smart, Drive Safe
+# AutoIlluminators - Drive Smart, Drive Safe
 
-AutoIlluminator, is a smart indicator and headlight monitoring platform to avoid accidents by levaraging the benefits of ML and Google Maps Platform. Our solution consists of two part firstly, managing the turn indicators and Secondly, management of Beam lights as per the driving regulations for an approaching vehicles.
+AutoIlluminators is an advanced indicator and headlight monitoring system designed to enhance safety by utilizing the advantages of machine learning and the Google Maps Platform. Our solution comprises two key components: firstly, the efficient management of turn indicators, and secondly, the regulation of beam lights in accordance with driving regulations to prevent accidents with approaching vehicles.
+
+![Screenshot (291)](https://github.com/Yogeshwar-CM/Auto-Illuminators/assets/117517206/b16a9c0b-a06e-4863-86b5-6064b4f977d9)
+
 
 https://github.com/Yogeshwar-CM/Auto-Illuminators/assets/82727820/2e7cb194-2423-4670-a69e-214b0b730ec2
 
-## 1.) Managing Indicators.
+## 1) Managing Indicators
 
-As per Motor Vehicles act it is necessary to give appropriate indicators during each and every turn while driving. Improper use of indicators can lead to a dash between vehicles and may also cause accidents. giving indicators during turns at time can be difficult for a driver due to mental fatigue. Thus our platform provides a solution where a person has to enter the starting point and destination and by fetching the details of travel/route from GoogleMaps platform using directions APIs and smartly triggering the indicators on the particular waypoints.
+According to the Motor Vehicles Act, it's imperative to use proper indicators for every turn while driving. Failure to do so can result in collisions between vehicles and potentially cause accidents. However, consistently signaling turns can be challenging for drivers, especially when experiencing mental fatigue. Our platform offers a solution by allowing users to input their starting point and destination. By retrieving travel details and routes from the Google Maps platform using directions APIs, our system intelligently activates indicators at specific waypoints along the journey, alleviating the burden on drivers.
 
-## 2.) Managing beam lights - Dipping the beam lights from high to low
+## 2) Managing beam lights - Dipping the beam lights from high to low
 
-There are different rules and regulations innvolved with the usage of beam lights such as keeping a low beam for an approaching vehicle and in a crowded and a traffic area. High beam light can blind the person approaching from the other end, thus we solve this problem by employing ML and performing object recognition to detect the vehicle and smartly dip to low beam to avoid accidents.
+Various rules and regulations govern the use of beam lights, including the requirement to maintain low beams when encountering approaching vehicles or navigating through crowded traffic areas. High beam lights have the potential to blind individuals approaching from the opposite direction, presenting a safety hazard. To address this issue, we utilize machine learning and object recognition technology to detect vehicles and intelligently adjust the beam to low settings, thereby mitigating the risk of accidents.
 
 # Tech Stack:
 1) Google Maps API
